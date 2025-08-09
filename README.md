@@ -1,6 +1,8 @@
 # ObservableHQ Customer Trends Dashboard
 
 This repository contains the source code for a dynamic and comprehensive **Consumer Shopping Trends Dashboard** built on the ObservableHQ platform. This interactive tool is designed for retail analytics, allowing users to explore and understand customer behavior through a variety of visualizations.
+*Data Souce:* Kaggle's [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
+
 
 ### 📊 Key Features
 
@@ -22,10 +24,6 @@ This repository contains the source code for a dynamic and comprehensive **Consu
 * **D3.js**: Used for data manipulation, aggregation, and the creation of custom visualizations.
 * **Observable Plot**: A high-level, declarative library for quickly creating complex charts.
 * **Tailwind CSS**: Utilized for the grid-based layout and styling.
-
-### 📈 Dataset
-
-[Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 
 
 ### 📷 Screenshots
