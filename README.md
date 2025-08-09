@@ -24,12 +24,12 @@ This repository contains the source code for a dynamic and comprehensive **Consu
 * **Tailwind CSS**: Utilized for the grid-based layout and styling.
 
 ### 📷 Screenshots
-<img width="2560" height="1440" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/8d876686-90d0-467d-8851-88fb94accede" />
-<img width="2560" height="1440" alt="Screenshot (491)" src="https://github.com/user-attachments/assets/d54dd779-e6df-4b06-a7c3-cf45da342f65" />
-<img width="2560" height="1440" alt="Screenshot (492)" src="https://github.com/user-attachments/assets/af14fc45-fa4c-4a87-b65a-634b4734de53" />
-<img width="2560" height="1440" alt="Screenshot (493)" src="https://github.com/user-attachments/assets/1eb39d24-3f98-41a0-9447-cc18d215fc89" />
-<img width="2560" height="1440" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/595da7d7-c490-4c12-a903-cef4d9379250" />
-<img width="2560" height="1440" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/34ea1559-1f97-4fd5-bbd5-f9e5a8eca309" />
+<img width="2560" height="1360" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/a075a88a-f0a0-4f66-9b66-55dd49e03a19" />
+<img width="2560" height="1338" alt="Screenshot (491)" src="https://github.com/user-attachments/assets/56ce0d8b-54c2-4d5b-8f45-e203b8ef9dd0" />
+<img width="2560" height="1315" alt="Screenshot (492)" src="https://github.com/user-attachments/assets/807c3a7f-3673-419d-b199-48132b7ff86a" />
+<img width="2560" height="1309" alt="Screenshot (493)" src="https://github.com/user-attachments/assets/8ddbd376-f44d-4489-a457-618fb62be85f" />
+<img width="2560" height="1316" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/69c14863-0ac5-478b-9ecb-2ccaa2881491" />
+<img width="2560" height="1250" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/327bf24c-50b8-4567-a457-4f51acf0dea0" />
 
 
 This project serves as a practical example of how to leverage ObservableHQ's powerful features to transform raw data into a compelling, easy-to-use business intelligence tool.
