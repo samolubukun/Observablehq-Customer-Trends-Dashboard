@@ -23,7 +23,13 @@ This repository contains the source code for a dynamic and comprehensive **Consu
 * **Observable Plot**: A high-level, declarative library for quickly creating complex charts.
 * **Tailwind CSS**: Utilized for the grid-based layout and styling.
 
+### 📈 Dataset
+
+[Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
+
+
 ### 📷 Screenshots
+
 <img width="2560" height="1360" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/a075a88a-f0a0-4f66-9b66-55dd49e03a19" />
 <img width="2560" height="1338" alt="Screenshot (491)" src="https://github.com/user-attachments/assets/56ce0d8b-54c2-4d5b-8f45-e203b8ef9dd0" />
 <img width="2560" height="1315" alt="Screenshot (492)" src="https://github.com/user-attachments/assets/807c3a7f-3673-419d-b199-48132b7ff86a" />
