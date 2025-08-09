@@ -1,4 +1,4 @@
-**# ObservableHQ Customer Trends Dashboard**
+# ObservableHQ Customer Trends Dashboard
 
 This repository contains the source code for a dynamic and comprehensive **Consumer Shopping Trends Dashboard** built on the ObservableHQ platform. This interactive tool is designed for retail analytics, allowing users to explore and understand customer behavior through a variety of visualizations.
 
