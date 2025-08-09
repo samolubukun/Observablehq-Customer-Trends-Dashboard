@@ -32,4 +32,5 @@ This repository contains the source code for a dynamic and comprehensive **Consu
 <img width="2560" height="1250" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/327bf24c-50b8-4567-a457-4f51acf0dea0" />
 
 
+<br>
 This project serves as a practical example of how to leverage ObservableHQ's powerful features to transform raw data into a compelling, easy-to-use business intelligence tool.
